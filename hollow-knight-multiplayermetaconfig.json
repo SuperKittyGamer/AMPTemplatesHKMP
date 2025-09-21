@@ -1,0 +1,22 @@
+[
+    {
+        "ConfigFile": "serversettings.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "whitelist.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "banned.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "authoriuzed.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]

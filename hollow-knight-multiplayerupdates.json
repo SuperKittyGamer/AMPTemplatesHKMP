@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "HKMP",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "https://github.com/Extremelyd1/HKMP/releases/",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
